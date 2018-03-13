@@ -1,8 +1,4 @@
-git is tools
-woshishen
-Git has a mutable index called stage
-sssssssff
-diff svn
-diff git
-123ddd
-add one line
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes of files.
